@@ -1,0 +1,21 @@
+# Скомпилированные файлы
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+/bin/
+/tmp/
+
+# Настройки IDE (GoLand / VS Code)
+.idea/
+.vscode/
+
+# Переменные окружения и секреты
+.env
+
+# Мусор ОС
+.DS_Store
+Thumbs.db
